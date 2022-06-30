@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://shinichi23.github.io/404-not-found-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Shinichi23/404-not-found-master">
       Solution
     </a>
     <span> | </span>
@@ -72,4 +72,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [your-website.com](https://{your-web-site-link})
 - GitHub [@Shinichi23](https://{github.com/Shinichi23})
-- Twitter [@TahaShinichir](https://{twitter.com/TahaShinichi})
+- Twitter [@TahaShinichi](https://{twitter.com/TahaShinichi})
